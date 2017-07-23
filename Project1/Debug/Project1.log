@@ -1,0 +1,8 @@
+﻿  RecommendCards.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(3534): warning C4101: “IsSim”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\recommendcards.cpp(3562): warning C4715: “RecommendCards::TheLast2Hands”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> \\Mac\Home\Desktop\League-Of-Players\Debug\LeagueOfPlayers.exe
